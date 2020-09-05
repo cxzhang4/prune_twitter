@@ -16,6 +16,8 @@ Shows you a random sample of users followed by an account. Do whatever you want 
 
 ## Next steps
 
+Factor out getting n users (based on certain criteria) and handling n users into separate functions.
+
 Configure command line arguments (only possible if you can run an interactive R session from the command line).
 
 Save results from different users (e.g. I want to examine who I follow AND who Chris Albon follows, etc.).
@@ -23,3 +25,4 @@ Save results from different users (e.g. I want to examine who I follow AND who C
 Allow different filters and sorts. Show the users who I don't interact with (AND who a lot of my friends also follow).
 
 Get likes. Show and handle likes in the same way as users.
+
